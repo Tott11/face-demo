@@ -1,0 +1,4 @@
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\obj\Release\netcoreapp2.0\csharp_video_recognition_demo.csprojAssemblyReference.cache
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\obj\Release\netcoreapp2.0\csharp_video_recognition_demo.AssemblyInfoInputs.cache
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\obj\Release\netcoreapp2.0\csharp_video_recognition_demo.AssemblyInfo.cs
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\obj\Release\netcoreapp2.0\csharp_video_recognition_demo.csproj.CoreCompileInputs.cache

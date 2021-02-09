@@ -1,0 +1,14 @@
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\realsense2.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\dll\x86\OpenCvSharpExtern.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\dll\x86\opencv_ffmpeg341.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\dll\x64\OpenCvSharpExtern.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\dll\x64\opencv_ffmpeg341_64.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\csharp_video_recognition_demo.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\csharp_video_recognition_demo.deps.json
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\csharp_video_recognition_demo.runtimeconfig.json
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\csharp_video_recognition_demo.pdb
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\CommandLine.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\OpenCvSharp.Blob.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\OpenCvSharp.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\FacerecCSharpWrapper.dll
+D:\itm\devs\itm-smart-projects\face-sdk\examples\csharp\video_recognition_demo_realsense\publish\Intel.Realsense.dll
